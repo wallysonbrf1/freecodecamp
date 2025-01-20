@@ -11,3 +11,18 @@ label {
     display: block;
     margin: 0.5rem 0;
 }
+h1, p {
+    margin: 1em auto;
+    text-align: center;
+}
+form {
+    margin: 0 auto;
+    min-width: 300px;
+    max-width: 500px;
+    width: 60vw;
+}
+fieldset {
+    border: none;
+    padding: 2rem 0;
+    border-bottom: 3px solid #3B3B4F;
+}
